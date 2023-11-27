@@ -13,35 +13,26 @@
       }
     ]
   },
-  "hideSkills": [
-    "Angular",
-    "Apache",
-    "Apple Pay",
-    "Azure",
-    "Bootstrap",
-    "CAN-BUS",
-    "Dart",
-    "DevOps",
-    "ESB",
-    "GCP",
-    "Google Analytics",
-    "Google Maps",
-    "GWT",
-    "JavaEE",
-    "Jest",
-    "jQuery",
-    "JUnit",
-    "LTE",
-    "Maven",
-    "OAuth",
-    "Oracle",
-    "OWASP Top 10",
-    "REST",
-    "SOAP",
-    "Spring",
-    "SQLite",
-    "Tomcat",
-    "Zephyr RTOS"
+  "skills": [
+    "JavaScript / TypeScript",
+    "React + Redux",
+    "HTML + CSS",
+    "AWS Architecture",
+    "Java + Spring",
+    "PHP",
+    "Python",
+    "Ruby",
+    "MySQL / PostgreSQL",
+    "MongoDB",
+    "GraphQL",
+    "Docker",
+    "Mac / Linux / Windows",
+    "iOS / Android",
+    "CI/CD / TDD",
+    "C / C++ / C#",
+    "Objective-C",
+    "Drupal / Jahia",
+    "Flutter"
   ],
   "education": [
     {
@@ -52,6 +43,7 @@
       "dates": "1994 - 1998"
     }
   ],
+  "summary": "Software Engineer / Architect with 25 years of experience in full-stack development. Front-end development with JavaScript and TypeScript using React, Redux, Next.js, jQuery, HTML, and CSS. Back-end development with JavaScript, Java, PHP, and Python. Cloud architecture experience on AWS, GCP, and Azure. Native and cross-platform mobile development. Enjoys leading agile development teams and mentoring junior developers.",
   "experience": [
     {
       "slug": "avantia",
@@ -61,20 +53,32 @@
       "startDate": "2012-09T09:00",
       "location": "Valley View, OH",
       "summary": [
-        "Worked on 20+ custom web sites and applications using diverse tech stacks.",
-        "Interviewed clients and prospects to gather requirements and design solutions.",
-        "Lead teams of up to 7 developers per-project.",
-        "Wrote front-end React applications.",
-        "Deployed applications on AWS using the CDK.",
-        "Developed and integrated web services.",
-        "Integrated payment systems including Apple Pay.",
-        "Worked with GA, GTM, and Search Console for SEO.",
-        "Developed native and cross platform mobile apps.",
-        "Profiled code to reduce CPU usage by up to 80%.",
-        "Conducted code reviews.",
-        "Administered CI/CD systems.",
+        "Wrote front-end UIs with React, Redux, jQuery, SCSS, JSP, Twig, and other tools.",
+        "Wrote back-end services in Java, JavaScript, PHP, Python, and Ruby.",
+        "Developed AWS architecture with S3, ECS, RDS, IAM, CloudFront, and other services.",
+        "Provisioned AWS infrastructure using CDK and CloudFormation.",
+        "Integrated payment processing systems including Stripe, CyberSource, and Apple Pay.",
+        "Developed native and cross-platform mobile apps in Swift, Java, and Flutter.",
+        "Completed 20+ custom websites and applications.",
+        "Standardized developer environments with Docker.",
         "Wrote developer and administrator documentation.",
-        "Conducted job interviews for developer candidates."
+        "Configured CI/CD pipelines.",
+        "Led agile teams of 3-7 developers per project."
+      ],
+      "detail": []
+    },
+    {
+      "slug": "aether-theory",
+      "company": "Aether Theory LLC",
+      "role": "Founder",
+      "dates": "July 2012 - ",
+      "startDate": "2000-05-01T09:00",
+      "endDate": "",
+      "location": "Independence, OH",
+      "summary": [
+        "Incorporated Aether Theory LLC.",
+        "Designed, coded, and published an iOS puzzle game in Objective-C including all artwork and music.",
+        "Built website with JavaScript and Python and deployed on GCP."
       ],
       "detail": []
     },
@@ -87,13 +91,13 @@
       "endDate": "2012-07-01T09:00",
       "location": "Hudson, OH",
       "summary": [
-        "Worked with stakeholders to develop requirements and specifications.",
-        "Developed native mobile apps.",
-        "Developed web services.",
-        "Designed MySQL DB to store content and updates.",
-        "Coded WYSIWYG XML content editor.",
-        "Managed 10-member agile development team responsible for mobile, web and data products.",
-        "IT staff grew from 5 to 20+ members."
+        "Developed native iOS, Android, PalmOS, BlackBerry, and Windows Mobile applications.",
+        "Implemented web services using Java + Spring, and MySQL.",
+        "Coded WYSIWYG XML content editor UI in Java using Swing.",
+        "Enhanced and supported web applications using Java, JSP, JavaScript, CSS, and HTML.",
+        "Wrote requirements and specifications for mobile and web applications.",
+        "Developed XML content management system using Java, MySQL, and Oracle.",
+        "Managed a 10-member agile development team responsible for mobile, web, and data products."
       ],
       "detail": []
     },
