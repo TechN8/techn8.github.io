@@ -631,13 +631,13 @@
         "Created all artwork and music.",
         "Incorporated Aether Theory LLC.",
         "Created Website in Python.",
-        "Hosted site on Google Cloud Platform.",
+        "Hosted site on Google Cloud Platform and AWS.",
         "Published application to Apple App Store."
       ],
       "video": "jvOKCsPnlBA",
       "detail": [
         "Charm Quark is an iOS puzzle game. The goal is to match 5 particles of the same color. Rather than moving next piece, like in Tetris, the whole play-field rotates. I wrote this game around the time the <a href=\"https://home.cern/science/accelerators/large-hadron-collider\">Large Hadron Collider</a> was coming online and in the news, so I decided to use that as my inspiration for the graphics.",
-        "The game is written in Objective-C using the <a href=\"https://github.com/cocos2d/cocos2d-iphone-classic\">Cocos2D</a> game library. Sprites were created as SVG using <a href=\"https://inkscape.org\">Inkscape</a>. Music was composed with <a href=\"https://www.apple.com/mac/garageband/\">GarageBand</a>. The website for this app (no longer online) was written in Python and hosted on <a href=\"https://cloud.google.com/appengine\">Google App Engine</a>",
+        "The game is written in Objective-C using the <a href=\"https://github.com/cocos2d/cocos2d-iphone-classic\">Cocos2D</a> game library. Sprites were created as SVG using <a href=\"https://inkscape.org\">Inkscape</a>. Music was composed with <a href=\"https://www.apple.com/mac/garageband/\">GarageBand</a>. The <a href=\"https://www.aethertheory.com\">website</a> for this app was originally written in Python and hosted on <a href=\"https://cloud.google.com/appengine\">Google App Engine</a>, it has since been migrated to <a href=\"https://nextjs.org/\">Next.JS</a> and <a href=\"https://sst.dev\">SST</a> on <a href=\"https://aws.amazon.com\">AWS</a>",
         "The app was published in the Apple App Store in 2012. It's no longer available on the app store because the audio library in use was removed from iOS by Apple. I've uploaded the source code to GitHub under the MIT license."
       ],
       "skills": [
@@ -647,6 +647,9 @@
         "HTML",
         "Objective-C",
         "Python",
+        "React",
+        "Next.JS",
+        "AWS",
         "SVG",
         "iOS"
       ]
