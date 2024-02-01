@@ -110,7 +110,7 @@
       "endDate": "2000-05-01T09:00",
       "location": "Poughkeepsie, NY",
       "summary": [
-        "Performed maintenance and development for the OS/390 C/C++ run-time library and common components.",
+        "Performed maintenance and development for the OS/390 C/C++ runtime library and common components.",
         "Created unit test cases to reproduce failures.",
         "Diagnosed bugs via debugger and heap analysis.",
         "Developed fixes using C, PL/X and Assembly."
